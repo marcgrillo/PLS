@@ -1,6 +1,6 @@
 # work
 
-All'interno della cartella PLS troverete le cartelle CODE e DATA:
+All'interno del main branch troverete le cartelle CODE e DATA:
 
 
 
