@@ -1,0 +1,456 @@
+Codice fiscale; Tentativo; Data; Sede; Punteggio; Risposte corrette; Risposte errate; Risposte Nulle
+CPNTSM00D69I330H; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 39.5; 41.0; 10.0
+CPNTSM00D69I330H; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.25; 33.0; 5.0
+LVGSRN00H51B832A; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 27.0; 30.0; 12.0
+LVGSRN00H51B832A; Tentativo numero 2; 2019-10-15; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.75; 26.0; 1.0
+PRRLNZ00T29F839O; Tentativo numero 1; 2019-09-11; Universita' degli studi di Napoli Federico II, sede di NAPOLI FEDERICO II INGEGNERIA; 78.75; 79.0; 1.0
+JNTLVC00H43I156Y; Tentativo numero 1; 2019-08-28; Universita' degli studi di Perugia, sede di PERUGIA SCIENZE; 69.25; 71.0; 8.0
+GVNLCU00C23G713I; Tentativo numero 1; 2019-10-01; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 53.75; 56.0; 19.0
+FRSLSE00B61E783I; Tentativo numero 1; 2019-09-04; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 50.5; 55.0; 24.0
+DNTBRN01B17G698V; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 78.0; 78.0; 2.0
+RPNGLI00P61G702V; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.25; 24.0; 7.0
+MSCBRN99L30D976R; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.0; 21.0; 12.0
+BNSLRZ01D60C415G; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 65.75; 67.0; 8.0
+CSCFNC00T20A390M; Tentativo numero 1; 2019-10-03; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 65.75; 67.0; 13.0
+DLLSML00H10G628B; Tentativo numero 1; 2019-11-27; Universit\u00e0 degli studi di Siena, sede di SIENA SCIENZE SAN MINIATO; 49.25; 53.0; 18.0
+LDTLNI01D62C632B; Tentativo numero 1; 2019-09-04; Universita' degli studi dell'Aquila, sede di L'AQUILA SCIENZE; 58.0; 59.0; 7.0
+LDTLNI01D62C632B; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 41.0; 42.0; 7.0
+TCCCHR00M60F023U; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.0; 61.0; 7.0
+BRBMTT00E29G870Y; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.0; 32.0; 16.0
+GVNNDR99E25G491P; Tentativo numero 1; 2019-07-23; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA ECONOMIA; 35.25; 37.0; 19.0
+GVNNDR99E25G491P; Tentativo numero 2; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.0; 40.0; 10.0
+BNNSFN00E25G702A; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 64.0; 64.0; 4.0
+RSSRHL00P43C722U; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 68.25; 70.0; 8.0
+STRGRL00M31F032W; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.75; 61.0; 5.0
+DLCFNC00E25F844I; Tentativo numero 1; 2019-05-09; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 56.75; 58.0; 8.0
+DLCFNC00E25F844I; Tentativo numero 2; 2019-07-09; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 49.5; 51.0; 8.0
+MGLLNZ00C24D451O; Tentativo numero 1; 2019-09-12; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 66.0; 67.0; 7.0
+RNZFNC01A31F656N; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.0; 68.0; 12.0
+CHRSML00M28G843N; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.5; 59.0; 16.0
+CNLLSN00L03D869P; Tentativo numero 1; 2019-05-09; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 70.75; 72.0; 8.0
+BCHLRD00A27I046M; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.25; 75.0; 4.0
+CNTGLI00H19A390D; Tentativo numero 1; 2019-05-08; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 76.5; 77.0; 3.0
+BRNMSO99R03E488E; Tentativo numero 1; 2019-07-15; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA ECONOMIA; 50.25; 51.0; 12.0
+PRRGNN00M17A091K; Tentativo numero 1; 2019-05-08; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 52.25; 53.0; 6.0
+MRNFRC00P17C858H; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 71.25; 72.0; 8.0
+CRNMTT01D18F023B; Tentativo numero 1; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.75; 19.0; 5.0
+MZZDMN00S05G843G; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.25; 23.0; 3.0
+MZZDMN00S05G843G; Tentativo numero 2; 2019-11-28; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.25; 28.0; 14.0
+FRRGAI00H60A657L; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 47.25; 50.0; 25.0
+BGNLSE00S46G702J; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.0; 67.0; 7.0
+MNCLNZ00R24I726Y; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 64.5; 66.0; 10.0
+CDNGRL00M12D960F; Tentativo numero 1; 2019-09-12; Universita' degli studi di Catania, sede di CATANIA SCIENZE; 61.5; 64.0; 15.0
+PCCNCL00R06F592R; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 64.5; 66.0; 7.0
+CRRGLI00R45F979Y; Tentativo numero 1; 2019-07-18; Universita' degli studi di Cagliari, sede di CAGLIARI SCIENZE SCIENZE; 70.0; 72.0; 8.0
+GROGMR00D23I046Z; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 64.75; 66.0; 9.0
+MSLLCU00M30G702X; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.75; 43.0; 12.0
+DVRDVD00E19G482I; Tentativo numero 1; 2019-09-12; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 59.0; 60.0; 9.0
+DVRDVD00E19G482I; Tentativo numero 2; 2019-10-15; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.5; 67.0; 7.0
+NLLGLC00R29D086C; Tentativo numero 1; 2019-09-06; Universita' della Calabria, sede di RENDE SCIENZE; 15.5; 17.0; 6.0
+GRZLCU00L12A657J; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.0; 61.0; 19.0
+FLPLRD00H30G843D; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.75; 37.0; 1.0
+DSTSFN01C02L109X; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 64.75; 65.0; 4.0
+DRNGRG00R65G702Q; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.25; 29.0; 3.0
+BNDMTT00P28G843W; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.0; 26.0; 8.0
+PLIVLI00T58E463B; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 67.5; 69.0; 10.0
+RMNMRT00P68E463E; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 49.0; 50.0; 10.0
+FBBDVD00D29F023Y; Tentativo numero 1; 2019-11-28; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 37.0; 38.0; 12.0
+BNIRNI00E50D612N; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.0; 58.0; 5.0
+PLNSRN00E43D024F; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.75; 34.0; 8.0
+MRNTMS00L30F656D; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 76.5; 77.0; 3.0
+BLRLNZ00S21F861Q; Tentativo numero 1; 2019-04-12; Universita' degli studi di Trento, sede di TRENTO SCIENZE; 41.5; 43.0; 14.0
+BLRLNZ00S21F861Q; Tentativo numero 2; 2019-08-30; Universita' degli studi di Trento, sede di TRENTO SCIENZE; 39.75; 40.0; 7.0
+MRNLNE00L51C352P; Tentativo numero 1; 2019-09-06; Universita' della Calabria, sede di RENDE SCIENZE; 64.25; 66.0; 10.0
+LGRDVD00L08D629V; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 39.5; 40.0; 15.0
+LGRDVD00L08D629V; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.75; 34.0; 17.0
+CLDMTT00H23G752Y; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 55.25; 57.0; 12.0
+BGNNCL00M12L400X; Tentativo numero 1; 2019-09-09; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 21.5; 23.0; 7.0
+DPNLSS00H44A794T; Tentativo numero 1; 2019-05-22; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 66.25; 68.0; 10.0
+MNSFNC00L28G702U; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 26.5; 28.0; 6.0
+GTTMRC00D27E625B; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 75.5; 76.0; 4.0
+CPDCLS01L09Z604X; Tentativo numero 1; 2019-10-01; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 52.25; 55.0; 12.0
+MRTFNC00L29E202O; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.0; 61.0; 16.0
+KRLJNN99S43Z127G; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 39.0; 44.0; 22.0
+GBBLSE00C54E625T; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 64.75; 65.0; 7.0
+FRRFNC00S05Z404E; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 61.75; 63.0; 5.0
+ZFFLNZ01L12I874W; Tentativo numero 1; 2019-04-15; Universita' della Calabria, sede di RENDE SCIENZE; 74.75; 75.0; 2.0
+SVSMRT00R50F158Y; Tentativo numero 1; 2019-06-04; Universita' degli studi di Messina, sede di MESSINA MULTITOLC; 45.75; 49.0; 15.0
+SVSMRT00R50F158Y; Tentativo numero 2; 2019-07-18; Universita' degli studi di Catania, sede di CATANIA SCIENZE; 46.5; 48.0; 14.0
+SVSMRT00R50F158Y; Tentativo numero 3; 2019-09-05; Universita' degli studi di Messina, sede di MESSINA MULTITOLC; 26.5; 28.0; 6.0
+QRTMTN00B62E506Q; Tentativo numero 1; 2019-10-15; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 10.5; 13.0; 10.0
+BRNMRC00M05I449D; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.75; 26.0; 27.0
+RBRDNL00H12B157U; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.75; 30.0; 1.0
+PDMDNL00H27L013L; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.0; 67.0; 13.0
+LSUMNL00T22E435C; Tentativo numero 1; 2019-08-30; Universita' degli studi di Trento, sede di TRENTO SCIENZE; 57.5; 60.0; 16.0
+LMELRD99P29E715I; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 61.5; 64.0; 14.0
+NTUMRC00P28D612W; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 53.75; 54.0; 3.0
+VRCNCL01A01D976G; Tentativo numero 1; 2019-07-11; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA ECONOMIA; 70.5; 71.0; 6.0
+BNCSRN00C49G999P; Tentativo numero 1; 2019-05-09; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 71.5; 72.0; 3.0
+NDLTMS00A18C415Z; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 62.0; 64.0; 12.0
+BRGRTR00T11Z131U; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.0; 60.0; 16.0
+SMNGLI00L31F023H; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.25; 61.0; 15.0
+CRMLNZ00P17G713T; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.5; 61.0; 14.0
+GLTNDR00B08I449J; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 69.75; 70.0; 6.0
+ZKARCE00C19D403D; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 23.0; 5.0
+DRNCRS01D29I726Q; Tentativo numero 1; 2019-08-28; Universita' degli studi di Perugia, sede di PERUGIA SCIENZE; 56.25; 58.0; 12.0
+RNDMTT00H24A091I; Tentativo numero 1; 2019-07-17; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 75.75; 76.0; 4.0
+LPPVVN01A45H096O; Tentativo numero 1; 2019-05-23; Universita' degli Studi della Basilicata - DIS, sede di POTENZA SCIENZE DIS; 70.75; 72.0; 7.0
+DTTGRI00B23E456B; Tentativo numero 1; 2019-05-09; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 50.75; 52.0; 15.0
+DTTGRI00B23E456B; Tentativo numero 2; 2019-06-06; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 49.25; 53.0; 21.0
+DTTGRI00B23E456B; Tentativo numero 3; 2019-09-12; Universit\u00e0 degli studi di Roma Tre, sede di ROMA TRE SCIENZE; 55.75; 56.0; 9.0
+CLDGPP00E16L109B; Tentativo numero 1; 2019-05-22; Universita' degli studi di Ferrara, sede di FERRARA SCIENZE; 72.25; 73.0; 6.0
+MSCJSO00L28C773F; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 6.5; 9.0; 10.0
+CRDJRL97L22Z602L; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 62.0; 63.0; 11.0
+LNEMTT00T07I449P; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.75; 39.0; 9.0
+GRNDVD00D03A657Q; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 52.0; 55.0; 21.0
+SNSGLI00D23G752B; Tentativo numero 1; 2019-05-09; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 46.25; 48.0; 10.0
+SNSGLI00D23G752B; Tentativo numero 2; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.75; 31.0; 1.0
+BRGDGI00B18G870I; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 69.5; 70.0; 8.0
+MREJTH00S29G843Q; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.0; 47.0; 17.0
+MREJTH00S29G843Q; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.25; 47.0; 5.0
+NNLLVC01C23A773D; Tentativo numero 1; 2019-09-06; Universita' della Calabria, sede di RENDE SCIENZE; 48.5; 51.0; 23.0
+NNLLVC01C23A773D; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.5; 28.0; 6.0
+CFFLRD00L17C415P; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.5; 36.0; 6.0
+FTTFRC00P05I726Q; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 73.0; 74.0; 6.0
+MNDGPP97M26I639Q; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.25; 35.0; 24.0
+VSCLCU00C16F023C; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.5; 57.0; 23.0
+SNGMTN01B44G491O; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.25; 75.0; 3.0
+CLDNNN00S27L845S; Tentativo numero 1; 2019-09-11; Universita' degli studi di Napoli Federico II, sede di NAPOLI FEDERICO II INGEGNERIA; 69.75; 71.0; 8.0
+MRALNZ00P02F205U; Tentativo numero 1; 2019-09-11; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 80.0; 80.0; 0.0
+LSCFNC00L19G843N; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 62.5; 64.0; 15.0
+PSTSST00S11A841R; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.0; 44.0; 25.0
+PSTSST00S11A841R; Tentativo numero 2; 2019-11-06; Universit\u00e0 degli studi di Siena, sede di SIENA SCIENZE SAN MINIATO; 29.25; 32.0; 18.0
+LBRMHL98L30E715V; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.5; 48.0; 12.0
+BLLBDT00H65G628R; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.75; 37.0; 35.0
+CLSRNI00B64G702N; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.25; 75.0; 4.0
+BLDLRT00H15G843U; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.5; 24.0; 6.0
+SQLLSS00D23D403F; Tentativo numero 1; 2019-05-09; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 76.75; 77.0; 1.0
+BNCDVD00E29E625X; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 55.5; 56.0; 9.0
+MRTMTA00T06Z131D; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.5; 62.0; 14.0
+BTTBBR00E70I046T; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.0; 33.0; 7.0
+CSTRCR00M12F839T; Tentativo numero 1; 2019-09-24; Universita' degli studi del Sannio, sede di BENEVENTO SCIENZE; 66.5; 68.0; 12.0
+STNGCM00L28E882G; Tentativo numero 1; 2019-09-06; Universita' degli Studi della Basilicata - DIS, sede di POTENZA SCIENZE DIS; 45.0; 47.0; 17.0
+MNFLCA00C63G752I; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.25; 41.0; 6.0
+TGNNCL00S66I449P; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.25; 61.0; 12.0
+TGNNCL00S66I449P; Tentativo numero 2; 2019-10-04; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 67.25; 68.0; 6.0
+NPELSS00C20D583V; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.0; 26.0; 5.0
+RSSLBT00H59A564K; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 49.75; 51.0; 9.0
+RSSLBT00H59A564K; Tentativo numero 2; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 49.75; 50.0; 4.0
+SSSLNZ00B02G702C; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.5; 61.0; 9.0
+BNDDNC00M24H224U; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.5; 60.0; 8.0
+DQTSMN01A30B361D; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.25; 56.0; 15.0
+PLDMTT00B26L400B; Tentativo numero 1; 2019-09-24; Universita' degli studi dell'Insubria, sede di INSUBRIA COMO SCIENZE; 76.5; 77.0; 3.0
+DBRFNC00H07L378S; Tentativo numero 1; 2019-04-10; Universita' degli studi di Trento, sede di TRENTO SCIENZE; 78.0; 78.0; 1.0
+BRSCHR00P66G702O; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 47.25; 51.0; 19.0
+BRSCHR00P66G702O; Tentativo numero 2; 2019-11-28; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.0; 48.0; 11.0
+DLVCHR00S63E396V; Tentativo numero 1; 2019-09-11; Universita' degli studi di Napoli Federico II, sede di NAPOLI FEDERICO II INGEGNERIA; 50.5; 52.0; 9.0
+MGNRRA00L48G687N; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 42.5; 43.0; 2.0
+ZCCTHL00M42C710W; Tentativo numero 1; 2019-06-04; Universita' degli studi di Messina, sede di MESSINA MULTITOLC; 48.75; 52.0; 15.0
+ZCCTHL00M42C710W; Tentativo numero 2; 2019-09-06; Universita' della Calabria, sede di RENDE SCIENZE; 51.0; 52.0; 8.0
+ZCCTHL00M42C710W; Tentativo numero 3; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 20.5; 22.0; 6.0
+DLCRCC00R69G843P; Tentativo numero 1; 2019-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 17.75; 19.0; 5.0
+BRRCHR00T68H163R; Tentativo numero 1; 2019-09-09; Universita' degli studi di Catania, sede di CATANIA SCIENZE; 39.0; 43.0; 18.0
+FRLDNS01H14F537M; Tentativo numero 1; 2019-05-10; Universita' della Calabria, sede di RENDE SCIENZE; 64.0; 65.0; 5.0
+MRONCL00R19H501W; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.0; 50.0; 24.0
+BRNFBA00M26A048Y; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 70.75; 72.0; 8.0
+RSSMTT00R12D612S; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 72.5; 73.0; 6.0
+BCCMTT01C23F023F; Tentativo numero 1; 2019-05-09; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 57.0; 59.0; 12.0
+BCCMTT01C23F023F; Tentativo numero 2; 2019-07-16; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 57.25; 60.0; 18.0
+CRMMTT00H14G702L; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.25; 32.0; 3.0
+BNCSMN99A29G687L; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.75; 35.0; 22.0
+MCLFLR01C68H501Y; Tentativo numero 1; 2019-09-03; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 73.0; 74.0; 4.0
+RIORNI01A64C573P; Tentativo numero 1; 2019-03-22; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 63.5; 65.0; 6.0
+TFLFNC00M05A662E; Tentativo numero 1; 2019-05-22; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 69.75; 71.0; 7.0
+MRNBDN99T12Z129S; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 63.5; 65.0; 6.0
+RDCMRC00T12E435K; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.0; 74.0; 3.0
+DGHGRG00M46C219N; Tentativo numero 1; 2019-05-08; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 67.5; 69.0; 8.0
+VLCPTR00C14A794T; Tentativo numero 1; 2019-09-09; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA ECONOMIA; 62.5; 64.0; 13.0
+PLLGLL00T20G273E; Tentativo numero 1; 2019-09-09; Universita' degli studi di Catania, sede di CATANIA SCIENZE; 67.25; 69.0; 10.0
+VLNDHV99R61D458G; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.25; 50.0; 19.0
+FLRJCP00L17F592M; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 76.5; 77.0; 2.0
+RZZSMN00S06F842K; Tentativo numero 1; 2019-09-09; Universita' degli Studi della Basilicata - DIMIE, sede di POTENZA SCIENZE DIMIE; 52.5; 53.0; 6.0
+SSISMN00T19G393I; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 65.25; 66.0; 10.0
+VSSGRL00D15A091T; Tentativo numero 1; 2019-09-10; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 69.5; 71.0; 6.0
+MZZMTT00P19A089L; Tentativo numero 1; 2019-04-09; Universita' degli studi di Catania, sede di CATANIA SCIENZE; 60.75; 61.0; 4.0
+BGNNCL99C15C933H; Tentativo numero 1; 2018-09-17; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA SCIENZE; 77.75; 78.0; 2.0
+DMNGAI00T47E625U; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 61.5; 63.0; 9.0
+CRTLRT00L30I726V; Tentativo numero 1; 2019-08-28; Universita' degli studi di Perugia, sede di PERUGIA SCIENZE; 74.25; 75.0; 5.0
+FRNMLY01A48G628C; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.25; 45.0; 4.0
+MZZLNR01A58F205I; Tentativo numero 1; 2019-07-23; Universita' degli studi del Sannio, sede di BENEVENTO SCIENZE; 49.25; 51.0; 13.0
+MZZLNR01A58F205I; Tentativo numero 2; 2019-09-11; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 50.75; 53.0; 13.0
+PRTJDN00D04D024R; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 75.25; 76.0; 4.0
+LBLMRC00C10G942X; Tentativo numero 1; 2019-07-18; Universita' degli Studi della Basilicata - DIS, sede di POTENZA SCIENZE DIS; 60.75; 62.0; 11.0
+BRBSFN00A28L407R; Tentativo numero 1; 2019-07-16; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 58.25; 60.0; 14.0
+PTRFNC01A18I158I; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.75; 34.0; 28.0
+ZRLGLC00A15C424Q; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.25; 28.0; 11.0
+FVRJLU00L49G702D; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.0; 60.0; 4.0
+FNTLCA00D61L424X; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.75; 56.0; 18.0
+TRTSMN01B05F842M; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.25; 30.0; 3.0
+RNGFRC96H30C415U; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.0; 19.0; 4.0
+NGRLCS00P24E815Q; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.0; 47.0; 24.0
+MTAMSS00L54D612T; Tentativo numero 1; 2019-07-22; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 35.75; 39.0; 16.0
+PCCLSS00M07A564L; Tentativo numero 1; 2019-09-24; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 41.75; 46.0; 29.0
+VLRTMS00A20I449B; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 77.0; 77.0; 1.0
+CCCGRG00C15C415Z; Tentativo numero 1; 2019-04-16; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 69.5; 70.0; 5.0
+SLTNDR00B28G702U; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 35.0; 36.0; 4.0
+MTTNTN00S10E507K; Tentativo numero 1; 2019-07-22; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 78.0; 78.0; 2.0
+VNTCHR00B66D969Q; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.0; 48.0; 19.0
+FLMSRA00D29F258D; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.0; 35.0; 8.0
+TMPGLL01A04D653O; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 70.5; 71.0; 9.0
+LNTFNC00E11H579N; Tentativo numero 1; 2019-09-06; Universita' della Calabria, sede di RENDE SCIENZE; 64.25; 65.0; 4.0
+LNTFNC00E11H579N; Tentativo numero 2; 2019-10-03; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 69.5; 70.0; 2.0
+MNCGNN00M31F830V; Tentativo numero 1; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 27.5; 29.0; 6.0
+ZCCMTS00S29I452H; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.0; 37.0; 16.0
+LTTLSN00L26A657C; Tentativo numero 1; 2019-09-02; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.75; 33.0; 1.0
+DGSLGU00E30D086I; Tentativo numero 1; 2019-04-15; Universita' della Calabria, sede di RENDE SCIENZE; 66.0; 67.0; 5.0
+SCRGRL00C26F023H; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.5; 58.0; 5.0
+BRTRCR00D01Z131C; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.5; 57.0; 17.0
+LDAMRM00R49E715F; Tentativo numero 1; 2019-08-28; Universita' degli studi di Perugia, sede di PERUGIA SCIENZE; 50.25; 54.0; 18.0
+LDAMRM00R49E715F; Tentativo numero 2; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.0; 46.0; 14.0
+RGGLSN99T30B068K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.5; 39.0; 34.0
+RGGLSN99T30B068K; Tentativo numero 2; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.5; 38.0; 34.0
+RGGLSN99T30B068K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.5; 39.0; 34.0
+RGGLSN99T30B068K; Tentativo numero 2; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.5; 38.0; 34.0
+CMBMNL00S15C352C; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 68.75; 69.0; 2.0
+CSVPTR00C21H199U; Tentativo numero 1; 2019-08-28; Universita' degli studi di Verona, sede di VERONA MULTITOLC; 33.25; 35.0; 16.0
+NZRWTR99R15G273B; Tentativo numero 1; 2018-07-23; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 52.25; 54.0; 9.0
+CNIFNC99C15G702L; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.0; 36.0; 0.0
+MNDFNC99B07G478X; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 52.25; 55.0; 14.0
+MNDFNC99B07G478X; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 52.25; 55.0; 14.0
+BNNNCL00B27G702G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.75; 26.0; 1.0
+RCCDGI99H01G843U; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.0; 58.0; 8.0
+PLLMRC99C09A326Q; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.75; 62.0; 13.0
+SNCRCR98L15E463M; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 16.25; 18.0; 7.0
+LCRDMN99L13G491K; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 69.25; 71.0; 9.0
+PLOFRC99M69G628B; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.0; 30.0; 30.0
+DFRNDR99C19G843U; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.25; 31.0; 7.0
+PNCGRL99P24C415L; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.75; 25.0; 5.0
+MSTLCU99L26F023W; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.25; 62.0; 11.0
+LGHMTT98H10I046S; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 14.0; 17.0; 12.0
+ZPPLRD99C19I726G; Tentativo numero 1; 2018-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 51.75; 55.0; 19.0
+MRNFNC99R10F943D; Tentativo numero 1; 2018-09-07; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 31.5; 33.0; 6.0
+MRNFNC99R10F943D; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.0; 31.0; 4.0
+NTLFPP99T03I449D; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.0; 62.0; 14.0
+BNDLSS99H64E625B; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.5; 34.0; 2.0
+CRNNTN98P17F979E; Tentativo numero 1; 2018-09-03; Universita' degli studi di Cagliari, sede di CAGLIARI SCIENZE SCIENZE; 40.5; 41.0; 8.0
+PLLMRC99C20G751C; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 24.0; 9.0
+RSSDRA99T17D403A; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 35.5; 36.0; 2.0
+LCUMNL99R26E205M; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.25; 31.0; 3.0
+FRCDGI00B25G687T; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 41.75; 45.0; 16.0
+FRCDGI00B25G687T; Tentativo numero 2; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 14.75; 16.0; 5.0
+MCCPFR99E14G187U; Tentativo numero 1; 2018-09-17; Universita' degli studi dell'Aquila, sede di L'AQUILA SCIENZE; 55.75; 59.0; 21.0
+BRTGVR00B69D612M; Tentativo numero 1; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 2.75; 8.0; 21.0
+GRCTMS00A08G377U; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.25; 25.0; 7.0
+NCNCHR99S47G702N; Tentativo numero 1; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.5; 27.0; 6.0
+PTTDVD99H14A326D; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.0; 75.0; 5.0
+CCNGNI99M10G491F; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 47.75; 49.0; 10.0
+CCNGNI99M10G491F; Tentativo numero 2; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.75; 32.0; 1.0
+CCNGNI99M10G491F; Tentativo numero 3; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.25; 26.0; 3.0
+CRRSNO99H46I452T; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 37.25; 39.0; 17.0
+LSTMRC99T22G702H; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.5; 45.0; 2.0
+PTTGRG98P48B354D; Tentativo numero 1; 2018-09-03; Universita' degli studi di Cagliari, sede di CAGLIARI SCIENZE SCIENZE; 47.25; 48.0; 9.0
+BRGMTT99E01I726C; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 49.5; 52.0; 12.0
+BRGMTT99E01I726C; Tentativo numero 2; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 52.75; 54.0; 13.0
+PLLMRC00A13C415X; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 49.5; 50.0; 9.0
+CNTLPA99L24D612L; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 19.0; 2.0
+CNTLPA99L24D612L; Tentativo numero 2; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.75; 25.0; 1.0
+CNTLPA99L24D612L; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 19.0; 2.0
+CNTLPA99L24D612L; Tentativo numero 2; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.75; 25.0; 1.0
+TGNMLS99R49H224E; Tentativo numero 1; 2018-09-03; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 71.75; 72.0; 4.0
+VLNLSN99P21A509Q; Tentativo numero 1; 2018-09-03; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 71.0; 72.0; 6.0
+SGNMGH99L53E202C; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.5; 32.0; 2.0
+BRGBRC00D51I754R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 29.25; 38.0; 42.0
+BRGBRC00D51I754R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 29.25; 38.0; 42.0
+VRZLNZ99H27D612O; Tentativo numero 1; 2018-09-11; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 77.75; 78.0; 1.0
+BRLLCU00C10I726D; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.75; 55.0; 9.0
+DMSGRL00A05I872G; Tentativo numero 1; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.0; 29.0; 4.0
+CHPNDR99P11F104W; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 56.5; 59.0; 15.0
+RSSLSN99H09I452N; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.5; 27.0; 14.0
+RSSLSN99H09I452N; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.5; 27.0; 14.0
+BRNPLA99P20F023D; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.5; 31.0; 2.0
+GRMMTS99B24H501Z; Tentativo numero 1; 2018-09-03; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 49.0; 50.0; 13.0
+RSSNGL99T11G273R; Tentativo numero 1; 2018-07-23; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 63.0; 63.0; 5.0
+GNTLNZ99R09G843L; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 21.0; 10.0
+LZZMLX99E18G377F; Tentativo numero 1; 2018-09-07; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 18.0; 19.0; 4.0
+FRRCLL99R59D024E; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.0; 20.0; 8.0
+PLMCLN99C71G702R; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.5; 37.0; 2.0
+TRRMNL99T20H700Y; Tentativo numero 1; 2018-09-10; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 66.25; 68.0; 7.0
+GMGLCU99D08E715N; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.5; 35.0; 4.0
+GLLVTI99E29G942P; Tentativo numero 1; 2018-09-10; Universita' degli Studi della Basilicata - DIMIE, sede di POTENZA SCIENZE DIMIE; 69.0; 70.0; 10.0
+GDGLRD99E17E715R; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.75; 68.0; 7.0
+VNGCST99R10G438S; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 41.5; 46.0; 28.0
+MNSLNZ00E09A515B; Tentativo numero 1; 2018-05-23; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 65.0; 67.0; 12.0
+PRDMTT99P19E715G; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.75; 37.0; 1.0
+BTNYRU99S24B036I; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.0; 30.0; 8.0
+FRTRBN99C27D612W; Tentativo numero 1; 2018-08-30; Universita' degli studi di Trento, sede di TRENTO SCIENZE; 74.25; 75.0; 4.0
+PLONND99A29Z222W; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 14.25; 15.0; 3.0
+DLPNDR99M10B832G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.75; 47.0; 13.0
+RCCMTT99H08I921B; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.25; 37.0; 3.0
+CRCMRA99H02L049G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 65.25; 67.0; 7.0
+GNNLSN99H17G713Y; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.5; 26.0; 2.0
+GNNLSN99H17G713Y; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.5; 26.0; 2.0
+RSUFNC99C02E506L; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.0; 22.0; 4.0
+BRRLSN00B61M289K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.75; 62.0; 11.0
+BRSBNC99C55B832D; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.5; 20.0; 2.0
+BRSBNC99C55B832D; Tentativo numero 2; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 27.25; 28.0; 3.0
+MBRCHR99E54L117P; Tentativo numero 1; 2018-09-10; Universita' degli studi di Perugia, sede di PERUGIA SCIENZE; 38.5; 39.0; 5.0
+MBRCHR99E54L117P; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.25; 18.0; 3.0
+MBRCHR99E54L117P; Tentativo numero 3; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.75; 24.0; 5.0
+BLTGLI99L48G702Y; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.25; 24.0; 7.0
+MNTRRT99M31G687E; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.0; 26.0; 4.0
+BRTLEI99L27I449Y; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.25; 30.0; 3.0
+SPRFNC99S16E625Y; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.25; 31.0; 11.0
+RMNMLD99S56D862Y; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 15.25; 16.0; 3.0
+CLCGGR95S19I449F; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 12.0; 13.0; 4.0
+TMLBNR98R09I726M; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 54.25; 56.0; 11.0
+TMLBNR98R09I726M; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 54.25; 56.0; 11.0
+FNTFRC99E08C352C; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 16.75; 18.0; 5.0
+PRSMLN99D56G015J; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 24.0; 9.0
+DNGDMN99H01A040S; Tentativo numero 1; 2018-07-16; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 72.75; 74.0; 6.0
+NTNLSN99B23F023T; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.75; 46.0; 17.0
+DLSLFR99D23L219Z; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 74.5; 75.0; 5.0
+VNSMLN00M63F205P; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.75; 22.0; 9.0
+VNSMLN00M63F205P; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 24.0; 9.0
+VNSMLN00M63F205P; Tentativo numero 3; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.75; 26.0; 9.0
+VNSMLN00M63F205P; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.75; 22.0; 9.0
+VNSMLN00M63F205P; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 24.0; 9.0
+VNSMLN00M63F205P; Tentativo numero 3; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.75; 26.0; 9.0
+PPSGPP98M12G791J; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.75; 37.0; 9.0
+PPSGPP98M12G791J; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.75; 37.0; 9.0
+PLCLNR99A47M082P; Tentativo numero 1; 2018-09-07; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 48.5; 50.0; 8.0
+BRRCPI99D03G702G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 7.0; 11.0; 16.0
+BRRCPI99D03G702G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 7.0; 11.0; 16.0
+NNLLEI99B13I046B; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.5; 43.0; 17.0
+NNLLEI99B13I046B; Tentativo numero 2; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 42.25; 44.0; 16.0
+NNLLEI99B13I046B; Tentativo numero 3; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.5; 48.0; 15.0
+NNLLEI99B13I046B; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 40.5; 43.0; 17.0
+NNLLEI99B13I046B; Tentativo numero 2; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 42.25; 44.0; 16.0
+NNLLEI99B13I046B; Tentativo numero 3; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 46.5; 48.0; 15.0
+CRRLRT00A02F205U; Tentativo numero 1; 2018-09-17; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA SCIENZE; 50.5; 53.0; 19.0
+CRRLRT00A02F205U; Tentativo numero 2; 2019-10-04; Universita' degli Studi di Milano-Bicocca, sede di MILANO BICOCCA MULTITOLC; 48.0; 49.0; 11.0
+CRRLRT00A02F205U; Tentativo numero 3; 2019-11-06; Universit\u00e0 degli studi di Siena, sede di SIENA SCIENZE SAN MINIATO; 45.0; 47.0; 16.0
+GRGLSN99T15G273K; Tentativo numero 1; 2018-07-17; Universita' degli studi di Modena e Reggio Emilia, sede di MODENA SCIENZE; 75.5; 76.0; 4.0
+RSOMTT99L15G628Q; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 56.75; 59.0; 13.0
+MRRMTT99S10E783M; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 59.0; 60.0; 9.0
+RSSLRI99D67D612T; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.25; 59.0; 9.0
+RSSLRI99D67D612T; Tentativo numero 2; 2019-03-06; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 22.25; 24.0; 7.0
+TROLRT00B06F158V; Tentativo numero 1; 2018-09-07; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 74.0; 75.0; 5.0
+GRNLGL00A14E463X; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.25; 27.0; 3.0
+BGNFNC99C06G999E; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 63.25; 65.0; 10.0
+SZZMRC99T08A662P; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.5; 32.0; 6.0
+CRDLRD00A04E625S; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.5; 34.0; 2.0
+MLVMRC99H26E625D; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 20.0; 21.0; 4.0
+STGMHL99T45F979T; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 20.25; 22.0; 7.0
+STGMHL99T45F979T; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.5; 26.0; 6.0
+DSNGCM99S25E625D; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 53.25; 55.0; 8.0
+FRNMRL99D68H501H; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 7.25; 10.0; 11.0
+FRNMRL99D68H501H; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 7.25; 10.0; 11.0
+FRNFPP99E07E715I; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 25.5; 26.0; 2.0
+CSTLGU99C14E435B; Tentativo numero 1; 2018-09-06; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 64.5; 65.0; 4.0
+BRLMRC99M20F592W; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.25; 27.0; 3.0
+DPLTRS99T41L483Y; Tentativo numero 1; 2018-09-04; Universita' degli studi di Trieste, sede di TRIESTE SCIENZE; 36.75; 38.0; 8.0
+DPLTRS99T41L483Y; Tentativo numero 1; 2018-09-04; Universita' degli studi di Trieste, sede di TRIESTE SCIENZE; 36.75; 38.0; 8.0
+BDNNDR99H18D969W; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.5; 25.0; 6.0
+BDNNDR99H18D969W; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.5; 25.0; 6.0
+GRRFPP99A12A326U; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 36.5; 37.0; 2.0
+FRNMLN99D27Z604C; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.75; 23.0; 13.0
+LBRGLI99M26G878R; Tentativo numero 1; 2018-09-04; Universita' degli studi dell'Aquila, sede di L'AQUILA SCIENZE; 65.5; 66.0; 7.0
+TRRLSN00A21A494C; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.75; 29.0; 9.0
+MRNDNN00D57Z604O; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.25; 25.0; 21.0
+MRNDNN00D57Z604O; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.25; 25.0; 21.0
+GBBMTN99H47I046V; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.25; 35.0; 3.0
+GBBMTN99H47I046V; Tentativo numero 2; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.5; 31.0; 2.0
+CVLCHR00A58G702Q; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.75; 35.0; 1.0
+PTRRCR99H12A488C; Tentativo numero 1; 2018-07-20; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 61.0; 63.0; 9.0
+RSSGRG99M42I537A; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 57.0; 57.0; 0.0
+MNCFNC99H17A390P; Tentativo numero 1; 2018-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 61.0; 63.0; 15.0
+PNZLNZ00A17G843V; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 73.75; 75.0; 5.0
+BSSLGU99P06I480U; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 33.5; 34.0; 2.0
+CMPMZL99M06G438K; Tentativo numero 1; 2018-07-12; Universita' degli studi di Verona, sede di VERONA SCIENZE; 57.5; 59.0; 13.0
+BNFLNZ00B09B832C; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 65.25; 67.0; 7.0
+RMGMRC99P13D403N; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.0; 28.0; 8.0
+CTTFPP99M06G482W; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 29.5; 30.0; 2.0
+SPRPLS99R26H501R; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.25; 18.0; 3.0
+CNTNDR99A15F592Q; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.25; 25.0; 3.0
+CNTNDR99A15F592Q; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.25; 25.0; 3.0
+MRNLVI99H50G752O; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.0; 45.0; 6.0
+TSCNCL99B02G628N; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 15.0; 16.0; 4.0
+TSCNCL99B02G628N; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 43.5; 44.0; 12.0
+CCCLCU99C02I324K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 37.25; 38.0; 4.0
+PLMMRM99M65A662B; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 22.0; 24.0; 8.0
+BRBLNI99E51I537L; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 16.25; 18.0; 7.0
+BRBLNI99E51I537L; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 16.25; 19.0; 11.0
+BRBLNI99E51I537L; Tentativo numero 3; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.25; 19.0; 7.0
+MLVCHR99E47G713K; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.25; 33.0; 3.0
+PTTLNZ99H23E783C; Tentativo numero 1; 2018-09-17; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 59.25; 61.0; 13.0
+PRNGRL00B10G157S; Tentativo numero 1; 2018-09-06; Universita' degli studi di Camerino, sede di CAMERINO SCIENZE; 71.0; 72.0; 6.0
+TRNGLI99L24A176G; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.25; 20.0; 3.0
+CSNDNC99H02C352J; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 16.5; 20.0; 23.0
+CSNDNC99H02C352J; Tentativo numero 2; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 10.0; 14.0; 21.0
+BRSTMS99C09F023Z; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 50.75; 51.0; 7.0
+CSTFNC99S23F537X; Tentativo numero 1; 2018-09-07; Universita' della Calabria, sede di RENDE SCIENZE; 42.5; 45.0; 20.0
+RMNGNN99C29I234G; Tentativo numero 1; 2018-09-11; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 35.25; 39.0; 26.0
+CLSMRA99E27E329K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.5; 33.0; 6.0
+SLASMN00C13B963S; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 56.0; 57.0; 6.0
+GRSLND99S55C415H; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 20.0; 22.0; 8.0
+GRSLND99S55C415H; Tentativo numero 2; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.5; 21.0; 6.0
+LKLHSM99P07B107N; Tentativo numero 1; 2018-04-11; Universita' degli studi di Verona, sede di VERONA SCIENZE; 46.5; 50.0; 19.0
+LKLHSM99P07B107N; Tentativo numero 2; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 43.0; 46.0; 21.0
+LKLHSM99P07B107N; Tentativo numero 1; 2018-04-11; Universita' degli studi di Verona, sede di VERONA SCIENZE; 46.5; 50.0; 19.0
+LKLHSM99P07B107N; Tentativo numero 2; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 43.0; 46.0; 21.0
+MRTFRC99P11G491S; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 62.5; 64.0; 15.0
+SDRMDM99T56F158R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Messina, sede di MESSINA SCIENZE; 58.0; 60.0; 10.0
+BRZSRN99R66E783S; Tentativo numero 1; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 60.25; 63.0; 13.0
+RGGFNC99R18F839G; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.25; 19.0; 7.0
+PCRFNC99T02G273K; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.75; 24.0; 9.0
+MCCLCU99B12E335U; Tentativo numero 1; 2018-07-25; Sapienza Universita' di Roma, sede di ROMA SAPIENZA SCIENZE; 71.25; 72.0; 7.0
+CRSPLP99B19G713V; Tentativo numero 1; 2018-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 73.25; 74.0; 3.0
+MTNTMS99H18E335Y; Tentativo numero 1; 2018-07-25; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 57.25; 59.0; 13.0
+VLRNCL99D10B832V; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 61.0; 62.0; 15.0
+DSNMTT99M06A488H; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 63.5; 64.0; 7.0
+MNTGLI99C52I726U; Tentativo numero 1; 2018-09-11; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 64.75; 66.0; 6.0
+BRTGAI00A47G491P; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 32.5; 33.0; 2.0
+MNTLCR00A28Z611M; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.25; 59.0; 6.0
+MNTLCR00A28Z611M; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.25; 59.0; 6.0
+BLLMHL00C27E715L; Tentativo numero 1; 2018-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 37.0; 38.0; 4.0
+MLZGCM00B23G628X; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 54.5; 56.0; 7.0
+ZZRFNC99T09G843C; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 17.25; 20.0; 11.0
+CCCLNE99T68I156O; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.75; 30.0; 5.0
+GRSLEI99D15G702V; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 20.0; 6.0
+SCHJCR00A31I452Q; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 48.0; 49.0; 12.0
+BTGLSN99B25I726B; Tentativo numero 1; 2018-09-12; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 42.25; 43.0; 4.0
+BTGLSN99B25I726B; Tentativo numero 2; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 30.0; 30.0; 0.0
+DMNLCU99E51I726F; Tentativo numero 1; 2018-09-11; Universita' degli studi di Siena - Presidio Pian dei Mantellini, sede di SIENA SCIENZE MANTELLINI; 60.75; 62.0; 11.0
+DLLLSI99H42G702H; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 31.25; 32.0; 3.0
+HSSMRO97P29G491D; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.0; 30.0; 8.0
+NRCFRC97B14F979T; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.5; 25.0; 2.0
+RFFMTT96L25G628D; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 44.25; 46.0; 13.0
+PLNLSN96A10B354S; Tentativo numero 1; 2018-07-25; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 61.0; 62.0; 13.0
+MZZFNC96L05A091R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Salerno, sede di SALERNO SCIENZE; 54.75; 57.0; 15.0
+CRTGLI99B22G752U; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.25; 27.0; 3.0
+FNLTRS99A68A475E; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 50.25; 52.0; 11.0
+FNLTRS99A68A475E; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 50.25; 52.0; 11.0
+LNZLCA99C61I829R; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 66.0; 68.0; 11.0
+MLCMTT99E22G999A; Tentativo numero 1; 2018-08-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 34.75; 35.0; 1.0
+JROLNZ97M25G491I; Tentativo numero 1; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 8.75; 11.0; 9.0
+RRGFNC98R02I046H; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.0; 22.0; 4.0
+RRGFNC98R02I046H; Tentativo numero 1; 2018-09-04; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 21.0; 22.0; 4.0
+BRTDRD95M25G088I; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 20.0; 6.0
+BRTDRD95M25G088I; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 18.5; 20.0; 6.0
+FNTMTT98C03L746R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 61.5; 64.0; 14.0
+FNTMTT98C03L746R; Tentativo numero 1; 2018-09-11; Universita' degli studi di Milano Statale, sede di MILANO STATALE SCIENZE; 61.5; 64.0; 14.0
+PLTGCM98A26B157R; Tentativo numero 1; 2019-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 39.5; 45.0; 34.0
+SBBMTT98H09G478K; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.75; 60.0; 7.0
+SBBMTT98H09G478K; Tentativo numero 2; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.75; 26.0; 5.0
+SBBMTT98H09G478K; Tentativo numero 1; 2018-10-19; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 58.75; 60.0; 7.0
+SBBMTT98H09G478K; Tentativo numero 2; 2018-11-29; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.75; 26.0; 5.0
+BRTMTT98M20B832Y; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 48.0; 48.0; 2.0
+BNVGCM98S14G628J; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 28.5; 30.0; 6.0
+CNCWNY99H70I197W; Tentativo numero 1; 2018-10-18; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 19.25; 20.0; 3.0
+CNCWNY99H70I197W; Tentativo numero 2; 2018-11-30; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 11.0; 14.0; 12.0
+PRSVLI99A53G702G; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 23.0; 24.0; 4.0
+LBRCTN99B42G843N; Tentativo numero 1; 2018-09-10; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 10.0; 13.0; 12.0
+LBRCTN99B42G843N; Tentativo numero 2; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 26.5; 33.0; 29.0
+TCCLNZ94E29G843O; Tentativo numero 1; 2019-09-12; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 67.75; 69.0; 6.0
+SRDFNC91S20G702Y; Tentativo numero 1; 2019-09-06; Universita' di Pisa, sede di PISA SCIENZE MATEMATICA; 24.0; 24.0; 0.0
+CSTLCN82R28I452N; Tentativo numero 1; 2018-09-03; Universita' degli studi di Cagliari, sede di CAGLIARI SCIENZE SCIENZE; 22.75; 31.0; 49.0

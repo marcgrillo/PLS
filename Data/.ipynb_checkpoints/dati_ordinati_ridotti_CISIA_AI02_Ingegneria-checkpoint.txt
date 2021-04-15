@@ -1,0 +1,217 @@
+Codice fiscale; Tentativo; Data; Sede; Punteggio; Risposte corrette; Risposte errate; Risposte Nulle
+PRRLNZ00T29F839O; Tentativo numero 1; 2019-02-22; Universita' degli studi di Napoli Parthenope, sede di NAPOLI PARTHENOPE INGEGNERIA; 77.5; 78.0; 2.0
+CCCTTR00L19H282K; Tentativo numero 1; 2019-05-16; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di PERUGIA INGEGNERIA; 45.25; 50.0; 27.0
+BNSLRZ01D60C415G; Tentativo numero 1; 2019-07-22; Sapienza Universita' di Roma - Facolta' di Ingegneria  (ICI e I3S) - Sede di Latina, sede di LATINA SAPIENZA INGEGNERIA; 57.5; 61.0; 17.0
+BLSVNT01D23I452Y; Tentativo numero 1; 2019-08-30; Universita' degli studi di Sassari, sede di SASSARI INGEGNERIA; 76.25; 77.0; 3.0
+TCCCHR00M60F023U; Tentativo numero 1; 2019-07-24; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 51.0; 54.0; 16.0
+BCHLRD00A27I046M; Tentativo numero 1; 2019-09-03; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 59.75; 62.0; 13.0
+CNTGLI00H19A390D; Tentativo numero 1; 2019-06-06; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di PERUGIA INGEGNERIA; 76.25; 77.0; 3.0
+BGNLSE00S46G702J; Tentativo numero 1; 2018-05-11; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 41.75; 42.0; 2.0
+BZZNDR98B06Z133I; Tentativo numero 1; 2019-07-11; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 38.75; 43.0; 31.0
+BZZNDR98B06Z133I; Tentativo numero 2; 2019-09-03; Universita' del Salento, sede di LECCE INGEGNERIA; 43.5; 48.0; 28.0
+PLIVLI00T58E463B; Tentativo numero 1; 2019-08-28; Universita' degli studi di Modena e Reggio Emilia - Sede distaccata di Mantova, sede di MANTOVA INGEGNERIA; 48.0; 52.0; 24.0
+RMNMRT00P68E463E; Tentativo numero 1; 2019-07-23; Universita' degli studi di Parma, sede di PARMA INGEGNERIA; 54.75; 56.0; 9.0
+RMNMRT00P68E463E; Tentativo numero 2; 2019-09-10; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 56.0; 58.0; 12.0
+BRSTMS00B24A944A; Tentativo numero 1; 2019-02-22; Universita' di Bologna - Bologna, sede di BOLOGNA INGEGNERIA 2019; 75.0; 76.0; 4.0
+BLRLNZ00S21F861Q; Tentativo numero 1; 2019-04-10; Universita' degli studi di Trento, sede di TRENTO INGEGNERIA; 29.0; 32.0; 21.0
+BGNNCL00M12L400X; Tentativo numero 1; 2019-09-03; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 39.75; 43.0; 25.0
+MRTFNC00L29E202O; Tentativo numero 1; 2019-03-21; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 59.0; 60.0; 7.0
+RBRDNL00H12B157U; Tentativo numero 1; 2019-07-23; Universita' degli Studi della Campania ''Luigi Vanvitelli'' - Scuola Politecnica e delle Scienze di Base, sede di NAPOLI SUN INGEGNERIA; 35.5; 36.0; 2.0
+VRCNCL01A01D976G; Tentativo numero 1; 2019-06-04; Universita' degli studi di Reggio Calabria Mediterranea, sede di REGGIO CALABRIA INGEGNERIA; 69.75; 70.0; 9.0
+SMNGLI00L31F023H; Tentativo numero 1; 2019-08-28; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 65.25; 68.0; 12.0
+RNDMTT00H24A091I; Tentativo numero 1; 2019-09-05; Universita' degli studi di Salerno - Dipartimento di Informatica, sede di SALERNO SCIENZE INGEGNERIA; 76.75; 77.0; 3.0
+CRDJRL97L22Z602L; Tentativo numero 1; 2019-02-05; Universita' di Bologna - Bologna, sede di BOLOGNA INGEGNERIA 2019; 49.5; 52.0; 13.0
+CRDJRL97L22Z602L; Tentativo numero 2; 2019-07-09; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 54.0; 57.0; 15.0
+CRDJRL97L22Z602L; Tentativo numero 3; 2019-08-30; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 52.0; 55.0; 18.0
+LNEMTT00T07I449P; Tentativo numero 1; 2019-09-03; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 48.0; 50.0; 25.0
+CFFLRD00L17C415P; Tentativo numero 1; 2019-07-11; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 35.5; 38.0; 27.0
+CLDNNN00S27L845S; Tentativo numero 1; 2019-09-10; Universita' degli studi di Napoli Parthenope, sede di NAPOLI PARTHENOPE INGEGNERIA; 65.5; 67.0; 9.0
+CLSRNI00B64G702N; Tentativo numero 1; 2019-09-10; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 69.0; 70.0; 7.0
+BLDLRT00H15G843U; Tentativo numero 1; 2019-09-10; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 12.75; 15.0; 9.0
+CSTRCR00M12F839T; Tentativo numero 1; 2019-07-18; Universita' degli Studi della Campania ''Luigi Vanvitelli'' - Scuola Politecnica e delle Scienze di Base, sede di NAPOLI SUN INGEGNERIA; 68.5; 69.0; 11.0
+MNFLCA00C63G752I; Tentativo numero 1; 2019-05-09; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 11.0; 12.0; 4.0
+RSSLBT00H59A564K; Tentativo numero 1; 2019-05-16; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 53.0; 54.0; 7.0
+SSSLNZ00B02G702C; Tentativo numero 1; 2019-04-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 42.5; 44.0; 15.0
+PLLNNN00P29H224K; Tentativo numero 1; 2019-09-04; Universita' della Calabria, sede di RENDE INGEGNERIA; 43.5; 48.0; 23.0
+DLVCHR00S63E396V; Tentativo numero 1; 2019-07-23; Universita' degli studi di Napoli Federico II, sede di NAPOLI FEDERICO II INGEGNERIA; 52.0; 53.0; 11.0
+FRLDNS01H14F537M; Tentativo numero 1; 2018-05-08; Universita' della Calabria, sede di RENDE INGEGNERIA; 67.75; 70.0; 10.0
+FRLDNS01H14F537M; Tentativo numero 2; 2019-05-07; Universita' della Calabria, sede di RENDE INGEGNERIA; 64.75; 67.0; 12.0
+BCCSST00L28G337L; Tentativo numero 1; 2019-09-02; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 56.0; 59.0; 21.0
+RSSMTT00R12D612S; Tentativo numero 1; 2019-07-11; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 75.25; 76.0; 4.0
+SLLRCC01A53H769N; Tentativo numero 1; 2019-04-17; Universita' degli studi dell'Aquila, sede di L'AQUILA INGEGNERIA; 52.0; 55.0; 16.0
+SLLRCC01A53H769N; Tentativo numero 2; 2019-09-02; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 50.5; 54.0; 21.0
+RIORNI01A64C573P; Tentativo numero 1; 2019-02-19; Universita' di Bologna - Cesena, sede di CESENA INGEGNERIA 2019; 61.0; 63.0; 8.0
+BNTPTR00L31A124O; Tentativo numero 1; 2019-03-19; Universita' degli studi di Pavia, sede di PAVIA INGEGNERIA; 76.5; 77.0; 3.0
+LMBNTN00H03G224Z; Tentativo numero 1; 2019-03-19; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 74.25; 75.0; 5.0
+ZRLGLC00A15C424Q; Tentativo numero 1; 2019-06-05; Universita' di Bologna - Bologna, sede di BOLOGNA MULTITOLC; 37.75; 40.0; 11.0
+VNTCHR00B66D969Q; Tentativo numero 1; 2019-07-24; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 41.5; 46.0; 30.0
+GMBSRA00R66G628V; Tentativo numero 1; 2019-07-23; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 37.0; 38.0; 4.0
+DGSLGU00E30D086I; Tentativo numero 1; 2019-04-11; Universita' della Calabria, sede di RENDE INGEGNERIA; 60.75; 63.0; 11.0
+RGGLSN99T30B068K; Tentativo numero 1; 2018-05-25; Universita' degli studi di Cagliari - Facolta' di Ingegneria e Architettura, sede di CAGLIARI INGEGNERIA ARCHITETTURA; 38.25; 44.0; 33.0
+RGGLSN99T30B068K; Tentativo numero 1; 2018-05-25; Universita' degli studi di Cagliari - Facolta' di Ingegneria e Architettura, sede di CAGLIARI INGEGNERIA ARCHITETTURA; 38.25; 44.0; 33.0
+CSVPTR00C21H199U; Tentativo numero 1; 2019-02-22; Universita' di Bologna - Via Tombesi dall'Ova 55, sede di RAVENNA INGEGNERIA; 32.0; 35.0; 18.0
+CSVPTR00C21H199U; Tentativo numero 2; 2019-07-18; Universita' di Bologna - Ravenna, sede di RAVENNA MULTITOLC; 48.0; 50.0; 14.0
+MNDFNC99B07G478X; Tentativo numero 1; 2018-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 50.0; 52.0; 11.0
+MNDFNC99B07G478X; Tentativo numero 1; 2018-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 50.0; 52.0; 11.0
+SNCRCR98L15E463M; Tentativo numero 1; 2018-03-08; Universita' di Bologna - Piazza Goidanich 60, sede di CESENA AGRARIA; 21.5; 29.0; 41.0
+SNCRCR98L15E463M; Tentativo numero 2; 2018-09-06; Universita' di Bologna - Piazza Goidanich 60, sede di CESENA AGRARIA; 16.75; 23.0; 39.0
+PLOFRC99M69G628B; Tentativo numero 1; 2019-09-12; Universita' degli studi di Modena e Reggio Emilia, sede di REGGIO EMILIA INGEGNERIA; 14.5; 17.0; 25.0
+PLOFRC99M69G628B; Tentativo numero 2; 2019-10-16; Universita' degli studi di Modena e Reggio Emilia, sede di REGGIO EMILIA INGEGNERIA; 14.25; 17.0; 24.0
+PLOFRC99M69G628B; Tentativo numero 3; 2019-11-26; Universita' degli studi di Pavia, sede di PAVIA INGEGNERIA; 7.75; 10.0; 16.0
+PPADRA99M17G713X; Tentativo numero 1; 2018-03-21; Universita' di Bologna - Viale Giuseppe Fanin 46, sede di BOLOGNA AGRARIA; 65.25; 66.0; 10.0
+LSTMRC99T22G702H; Tentativo numero 1; 2018-05-11; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 49.0; 49.0; 1.0
+PTTGRG98P48B354D; Tentativo numero 1; 2017-05-09; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 31.25; 33.0; 19.0
+BRLLCU00C10I726D; Tentativo numero 1; 2018-03-07; Universita' degli studi di Siena, sede di SIENA INGEGNERIA; 33.0; 35.0; 8.0
+DMSGRL00A05I872G; Tentativo numero 1; 2018-05-09; Universita' della Calabria, sede di RENDE INGEGNERIA; 42.5; 43.0; 2.0
+FRRCLL99R59D024E; Tentativo numero 1; 2019-09-03; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 56.75; 59.0; 13.0
+MNSLNZ00E09A515B; Tentativo numero 1; 2018-06-06; Universita' degli studi dell'Aquila, sede di L'AQUILA INGEGNERIA; 72.0; 73.0; 6.0
+BRRLSN00B61M289K; Tentativo numero 1; 2017-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 42.75; 46.0; 18.0
+MNTRRT99M31G687E; Tentativo numero 1; 2017-07-10; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 12.5; 17.0; 18.0
+DLCDHN98C65I775Y; Tentativo numero 1; 2017-08-31; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 38.25; 43.0; 27.0
+RCCGLI98R60B519J; Tentativo numero 1; 2017-09-12; Universita' degli studi del Molise, sede di CAMPOBASSO INGEGNERIA; 52.25; 54.0; 13.0
+VSCNTN98T29A783P; Tentativo numero 1; 2017-11-29; Universita' degli studi del Sannio, sede di BENEVENTO INGEGNERIA; 50.0; 52.0; 12.0
+DNGDMN99H01A040S; Tentativo numero 1; 2018-07-17; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di PERUGIA INGEGNERIA; 68.25; 70.0; 10.0
+DLSLFR99D23L219Z; Tentativo numero 1; 2018-03-23; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 74.75; 75.0; 5.0
+DLSRCR99R24A509W; Tentativo numero 1; 2018-07-18; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 69.75; 71.0; 8.0
+PPSGPP98M12G791J; Tentativo numero 1; 2017-09-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 51.0; 53.0; 11.0
+PPSGPP98M12G791J; Tentativo numero 1; 2017-09-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 51.0; 53.0; 11.0
+PCCGAI98H59G628J; Tentativo numero 1; 2017-09-05; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 42.75; 45.0; 14.0
+GRGLSN99T15G273K; Tentativo numero 1; 2018-07-12; Universita' di Bologna - Via Venezia 52, sede di CESENA INGEGNERIA; 63.0; 65.0; 15.0
+CSTLGU99C14E435B; Tentativo numero 1; 2018-07-19; Universita' degli studi dell'Aquila, sede di L'AQUILA INGEGNERIA; 65.0; 66.0; 7.0
+SCCLSN99T20G478N; Tentativo numero 1; 2018-09-03; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 63.75; 65.0; 14.0
+CLRLSE99D13D612Q; Tentativo numero 1; 2017-07-10; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 56.5; 58.0; 6.0
+CLRLSE99D13D612Q; Tentativo numero 2; 2018-09-12; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 56.75; 58.0; 7.0
+GRRFPP99A12A326U; Tentativo numero 1; 2018-08-31; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 75.5; 76.0; 4.0
+PRRMRC00A20E974S; Tentativo numero 1; 2017-05-09; Universita' degli studi di Palermo - Viale delle Scienze, sede di PALERMO INGEGNERIA; 57.0; 58.0; 10.0
+LBRGLI99M26G878R; Tentativo numero 1; 2018-09-05; Sapienza Universita' di Roma - Facolta' di Ingegneria (ICI e I3S), sede di ROMA SAPIENZA INGEGNERIA; 70.5; 71.0; 8.0
+RZTSVA98S28C616O; Tentativo numero 1; 2017-04-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 29.0; 31.0; 25.0
+PTRRCR99H12A488C; Tentativo numero 1; 2018-03-20; Universita' degli studi dell'Aquila, sede di L'AQUILA INGEGNERIA; 59.0; 61.0; 11.0
+MBRMRC99C03H501H; Tentativo numero 1; 2018-04-17; Universita' degli studi dell'Aquila, sede di L'AQUILA INGEGNERIA; 74.25; 75.0; 5.0
+RZTNTN95H20I872Q; Tentativo numero 1; 2017-04-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 22.25; 24.0; 17.0
+RZTNTN95H20I872Q; Tentativo numero 2; 2017-05-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 26.5; 27.0; 11.0
+MNCFNC99H17A390P; Tentativo numero 1; 2018-02-15; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 68.0; 69.0; 11.0
+BNFLNZ00B09B832C; Tentativo numero 1; 2018-09-04; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 62.25; 65.0; 12.0
+BRBLNI99E51I537L; Tentativo numero 1; 2018-03-21; Universita' degli studi di Messina - Dipartimento di Ingegneria, sede di MESSINA INGEGNERIA; 28.0; 33.0; 27.0
+CSNDNC99H02C352J; Tentativo numero 1; 2018-05-08; Universita' della Calabria, sede di RENDE INGEGNERIA; 18.25; 22.0; 28.0
+CLSMRA99E27E329K; Tentativo numero 1; 2019-11-05; Universita' di Bologna - Ravenna, sede di RAVENNA MULTITOLC; 49.75; 53.0; 17.0
+GRSLND99S55C415H; Tentativo numero 1; 2019-09-04; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 9.75; 11.0; 5.0
+MRTFRC99P11G491S; Tentativo numero 1; 2018-04-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 70.25; 71.0; 7.0
+SDRMDM99T56F158R; Tentativo numero 1; 2019-03-20; Universita' degli studi di Messina - Dipartimento di Ingegneria, sede di MESSINA INGEGNERIA; 59.75; 61.0; 12.0
+SDRMDM99T56F158R; Tentativo numero 2; 2019-04-16; Universita' degli studi di Messina - Dipartimento di Ingegneria, sede di MESSINA INGEGNERIA; 54.5; 56.0; 12.0
+SDRMDM99T56F158R; Tentativo numero 3; 2019-05-15; Universita' degli studi di Messina - Dipartimento di Ingegneria, sede di MESSINA INGEGNERIA; 64.5; 65.0; 6.0
+SDRMDM99T56F158R; Tentativo numero 4; 2019-06-05; Universita' degli studi di Messina - Dipartimento di Ingegneria, sede di MESSINA INGEGNERIA; 70.25; 71.0; 4.0
+RGGFNC99R18F839G; Tentativo numero 1; 2018-09-06; Universita' di Bologna - Via Della Beverara 123, sede di BOLOGNA BIOTECNOLOGIE; 43.5; 47.0; 19.0
+VLRNCL99D10B832V; Tentativo numero 1; 2018-09-05; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 67.75; 69.0; 11.0
+CTRSMN99D06Z112I; Tentativo numero 1; 2019-09-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 38.75; 43.0; 23.0
+FRRNTN98B23M208W; Tentativo numero 1; 2017-04-05; Universita' della Calabria, sede di RENDE INGEGNERIA; 39.75; 42.0; 11.0
+MNTLCR00A28Z611M; Tentativo numero 1; 2018-05-16; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 54.25; 56.0; 8.0
+MNTLCR00A28Z611M; Tentativo numero 2; 2018-09-03; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 47.0; 50.0; 16.0
+MNTLCR00A28Z611M; Tentativo numero 1; 2018-05-16; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 54.25; 56.0; 8.0
+MNTLCR00A28Z611M; Tentativo numero 2; 2018-09-03; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 47.0; 50.0; 16.0
+MLZGCM00B23G628X; Tentativo numero 1; 2018-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 47.25; 49.0; 12.0
+DLLMTT99M04E514V; Tentativo numero 1; 2018-06-07; Politecnico di Milano, sede di MILANO POLITECNICO INGEGNERIA; 75.5; 76.0; 3.0
+PSTLNZ98A11D423N; Tentativo numero 1; 2017-09-04; Universita' degli studi di Palermo - Viale delle Scienze, sede di PALERMO INGEGNERIA; 13.75; 15.0; 5.0
+LNGLCA97S59E463K; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 57.25; 59.0; 8.0
+FRNRRT98D01D086B; Tentativo numero 1; 2016-05-12; Universita' della Calabria, sede di RENDE; 62.25; 63.0; 7.0
+RZZVCN97E18M088K; Tentativo numero 1; 2016-07-28; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 68.0; 68.0; 1.0
+CPRNRD97L14E573V; Tentativo numero 1; 2016-05-12; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 23.25; 27.0; 32.0
+CPRNRD97L14E573V; Tentativo numero 2; 2016-07-29; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 24.0; 27.0; 28.0
+CPRNRD97L14E573V; Tentativo numero 3; 2016-09-05; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 12.5; 16.0; 14.0
+CLMNMR97D62A783E; Tentativo numero 1; 2016-09-02; Universita' di Bologna - Via Filippo Re 2\/secondo, sede di BOLOGNA BIOTECNOLOGIE; 59.0; 60.0; 5.0
+NMTLNZ97M14I452D; Tentativo numero 1; 2016-09-05; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 54.25; 55.0; 4.0
+STTNDR97H17I155P; Tentativo numero 1; 2016-07-20; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di TERNI; 60.5; 62.0; 7.0
+STTNDR97H17I155P; Tentativo numero 1; 2016-07-20; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di TERNI; 60.5; 62.0; 7.0
+BCCBRN97L07C573D; Tentativo numero 1; 2016-04-05; Universita' di Bologna - Via Venezia 52, sede di CESENA INGEGNERIA; 64.25; 65.0; 5.0
+CNTDDM97M21G478N; Tentativo numero 1; 2016-09-01; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 64.0; 65.0; 5.0
+SPGLNZ97R05A944Z; Tentativo numero 1; 2016-03-09; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 60.75; 62.0; 7.0
+CVTLNZ97B27H294R; Tentativo numero 1; 2016-05-20; Universita' di Bologna - Via Filippo Re 2\/secondo, sede di BOLOGNA BIOTECNOLOGIE; 55.75; 57.0; 10.0
+BRNGMR97P12A657W; Tentativo numero 1; 2017-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 50.5; 52.0; 16.0
+LTRLSN97T01A662F; Tentativo numero 1; 2016-09-06; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 48.25; 49.0; 7.0
+LBSMNN97L60I531V; Tentativo numero 1; 2016-07-18; Universita' degli studi di Padova, sede di PADOVA; 33.5; 40.0; 30.0
+TMMSML97D27H769O; Tentativo numero 1; 2016-04-05; Universita' degli studi dell'Aquila, sede di L'AQUILA; 44.25; 46.0; 14.0
+DSRFNC97C60I422U; Tentativo numero 1; 2016-09-01; Universita' della Calabria, sede di RENDE; 40.0; 42.0; 15.0
+NCTGPP97L31M208B; Tentativo numero 1; 2015-07-14; Universita' degli studi di Reggio Calabria Mediterranea, sede di REGGIO CALABRIA; 50.5; 52.0; 13.0
+MRCGLC97T15H769D; Tentativo numero 1; 2016-05-13; Universita' degli studi di Perugia - Dipartimento di Ingegneria, sede di TERNI; 56.75; 58.0; 10.0
+PGLNCL96S06H703X; Tentativo numero 1; 2018-09-07; Universita' degli studi di Salerno - Dipartimento di Informatica, sede di SALERNO SCIENZE INGEGNERIA; 31.75; 36.0; 27.0
+PGLNCL96S06H703X; Tentativo numero 1; 2018-09-07; Universita' degli studi di Salerno - Dipartimento di Informatica, sede di SALERNO SCIENZE INGEGNERIA; 31.75; 36.0; 27.0
+DGNMRC97L19B180P; Tentativo numero 1; 2016-07-15; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 34.5; 37.0; 20.0
+DGNMRC97L19B180P; Tentativo numero 2; 2016-09-05; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 30.75; 33.0; 22.0
+PTRMRM98C65F839H; Tentativo numero 1; 2016-05-13; Universita' degli studi di Salerno - Facolta' di Ingegneria - Edificio E1, sede di SALERNO; 39.5; 42.0; 13.0
+BRBGRL97L01C351K; Tentativo numero 1; 2016-05-11; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 48.0; 49.0; 11.0
+KSHSLM98B14F205D; Tentativo numero 1; 2016-03-23; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 46.25; 49.0; 16.0
+KSHSLM98B14F205D; Tentativo numero 2; 2018-09-10; Universita' degli studi di Salerno - Dipartimento di Informatica, sede di SALERNO SCIENZE INGEGNERIA; 43.75; 46.0; 20.0
+LEOBRC97M44G843V; Tentativo numero 1; 2016-09-06; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 38.25; 40.0; 14.0
+MRCCRN97A60E625D; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 56.5; 58.0; 10.0
+FRSLSN98B24F052E; Tentativo numero 1; 2016-09-01; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 38.0; 39.0; 7.0
+MSTLSS97M28F023R; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 40.0; 41.0; 13.0
+BTTRRT97R16I452A; Tentativo numero 1; 2018-07-23; Universita' degli studi di Sassari, sede di SASSARI INGEGNERIA; 61.0; 63.0; 16.0
+BTTRRT97R16I452A; Tentativo numero 1; 2018-07-23; Universita' degli studi di Sassari, sede di SASSARI INGEGNERIA; 61.0; 63.0; 16.0
+DLCMRA98A23L259U; Tentativo numero 1; 2016-09-06; Sapienza Universita' di Roma - Facolta' di Ingegneria (ICI e I3S), sede di SAPIENZA INGEGNERIA; 66.75; 67.0; 3.0
+SCRNNG95P06C351P; Tentativo numero 1; 2016-07-29; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 41.5; 45.0; 25.0
+TRNMNL97B11H501N; Tentativo numero 1; 2016-07-22; Sapienza Universita' di Roma - Facolta' di Ingegneria (ICI e I3S), sede di SAPIENZA INGEGNERIA; 66.5; 67.0; 3.0
+LPVNDR96S13Z129F; Tentativo numero 1; 2016-04-08; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 48.75; 50.0; 10.0
+LFRBBR97L41L049E; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 40.25; 43.0; 16.0
+FLMLRT93A11Z154P; Tentativo numero 1; 2019-09-12; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 28.0; 31.0; 19.0
+NRCFRC97B14F979T; Tentativo numero 1; 2016-09-05; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 18.0; 23.0; 38.0
+NRCFRC97B14F979T; Tentativo numero 2; 2017-05-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 23.75; 24.0; 16.0
+CRTGNN97L12A192X; Tentativo numero 1; 2017-08-29; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 47.0; 49.0; 16.0
+MTEFPP96S14G491M; Tentativo numero 1; 2015-09-04; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 14.25; 17.0; 11.0
+RLAGPP96H30E715X; Tentativo numero 1; 2018-09-05; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 14.25; 15.0; 3.0
+RLAGPP96H30E715X; Tentativo numero 1; 2018-09-05; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 14.25; 15.0; 3.0
+TRLDNT95H03F052N; Tentativo numero 1; 2015-05-07; Universita' degli studi di Napoli Federico II, sede di NAPOLI FEDERICO II; 16.0; 17.0; 19.0
+RFFMTT96L25G628D; Tentativo numero 1; 2015-09-03; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 52.0; 53.0; 11.0
+RCDGPP96L10H501Q; Tentativo numero 1; 2015-05-12; Universita' degli studi di Reggio Calabria Mediterranea, sede di REGGIO CALABRIA; 52.75; 55.0; 13.0
+RCDGPP96L10H501Q; Tentativo numero 2; 2015-07-13; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 59.0; 60.0; 5.0
+SPDSFN96M26F112V; Tentativo numero 1; 2015-05-13; Universita' della Calabria, sede di RENDE; 43.5; 45.0; 9.0
+PGNSLV96C49L736T; Tentativo numero 1; 2015-09-03; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 40.75; 43.0; 14.0
+PLLPTR96D25C265J; Tentativo numero 1; 2015-07-15; Universita' di Bologna - Via Filippo Re 2\/secondo, sede di BOLOGNA BIOTECNOLOGIE; 63.25; 64.0; 4.0
+CRLFPP96B29G687P; Tentativo numero 1; 2015-09-02; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 46.0; 48.0; 11.0
+GDCGRL96C08C415U; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 56.75; 58.0; 5.0
+NTNLSS96L10C588T; Tentativo numero 1; 2015-09-03; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 52.0; 53.0; 15.0
+SLNJFR96R55I452G; Tentativo numero 1; 2017-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 34.0; 36.0; 20.0
+PRTCRN96C65E625M; Tentativo numero 1; 2017-05-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 34.25; 35.0; 9.0
+BRTGCM98L18F023S; Tentativo numero 1; 2017-09-05; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 31.5; 32.0; 2.0
+SPZDRD98C23G712G; Tentativo numero 1; 2017-07-19; Universita' degli Studi della Basilicata, sede di POTENZA INGEGNERIA; 45.75; 48.0; 21.0
+TRNGCM98L08E202K; Tentativo numero 1; 2018-07-13; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 72.5; 73.0; 7.0
+VSCDNC99A30H931U; Tentativo numero 1; 2017-02-10; Universita' degli studi di Salerno - Edificio F, sede di SALERNO SCIENZE; 49.75; 52.0; 14.0
+GRGNDR98B13G702T; Tentativo numero 1; 2017-09-06; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 63.5; 64.0; 6.0
+RTNNDR98B07A859T; Tentativo numero 1; 2017-09-06; Universita' degli studi di Pavia, sede di PAVIA INGEGNERIA; 63.0; 64.0; 5.0
+PZZLSN98P08L219U; Tentativo numero 1; 2017-09-07; Universita' degli studi di Parma, sede di PARMA INGEGNERIA; 60.25; 61.0; 8.0
+RNBLCU98P27B639S; Tentativo numero 1; 2017-07-11; Politecnico di Milano, sede di MILANO POLITECNICO INGEGNERIA; 65.75; 66.0; 4.0
+MLCMTT99E22G999A; Tentativo numero 1; 2018-05-24; Universita' degli studi di Firenze - Scuola di Ingegneria, sede di FIRENZE INGEGNERIA; 65.0; 67.0; 10.0
+MLNMRC98T16B354W; Tentativo numero 1; 2017-05-09; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 66.5; 67.0; 3.0
+VNNLSN98R13G628K; Tentativo numero 1; 2017-05-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 25.75; 28.0; 9.0
+VNTNTN98A15G713W; Tentativo numero 1; 2017-07-21; Universita' di Bologna - Via Filippo Re 2\/secondo - Via Gobetti 93\/2, sede di BOLOGNA BIOTECNOLOGIE; 57.25; 58.0; 8.0
+SCCVNC98C62E507L; Tentativo numero 1; 2017-09-05; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 66.75; 67.0; 3.0
+PRPTZN98T02L424B; Tentativo numero 1; 2017-09-04; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 67.75; 68.0; 2.0
+LGDDVD99L24H224X; Tentativo numero 1; 2017-09-05; Universita' degli studi di Reggio Calabria Mediterranea, sede di REGGIO CALABRIA INGEGNERIA; 57.5; 59.0; 10.0
+LGDDVD99L24H224X; Tentativo numero 2; 2019-09-03; Universita' degli studi di Reggio Calabria Mediterranea, sede di REGGIO CALABRIA INGEGNERIA; 57.5; 59.0; 8.0
+MZZLGN99M43C983U; Tentativo numero 1; 2017-05-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 21.25; 23.0; 7.0
+GLUCGR97L29B602W; Tentativo numero 1; 2017-05-08; Universita' degli studi di Palermo - Viale delle Scienze, sede di PALERMO INGEGNERIA; 38.25; 41.0; 13.0
+CRPMNN98R63B041W; Tentativo numero 1; 2017-09-05; Universita' degli studi di Pavia, sede di PAVIA INGEGNERIA; 62.75; 64.0; 6.0
+MCCLCU97C08H856D; Tentativo numero 1; 2017-10-09; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA CHIMICA; 34.25; 36.0; 17.0
+MCCLCU97C08H856D; Tentativo numero 2; 2018-08-29; Universita' degli studi di Cagliari - Facolta' di Ingegneria e Architettura, sede di CAGLIARI INGEGNERIA ARCHITETTURA; 50.5; 52.0; 15.0
+PSTFRC96P01G702E; Tentativo numero 1; 2018-09-12; Universita' di Pisa - Largo Bruno Pontecorvo, sede di PISA INGEGNERIA CHIMICA; 5.5; 6.0; 2.0
+GZZRCC98D44B352Y; Tentativo numero 1; 2017-07-12; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 47.25; 49.0; 11.0
+XHLNEE97E30Z100Z; Tentativo numero 1; 2017-04-06; Universita' di Bologna - Via Filippo Re 2\/II, sede di BOLOGNA SCIENZE; 48.75; 51.0; 17.0
+BGTLRD98H20I608D; Tentativo numero 1; 2017-07-19; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 54.0; 55.0; 11.0
+CNCWNY99H70I197W; Tentativo numero 1; 2019-09-10; Universita' degli studi del Sannio, sede di BENEVENTO INGEGNERIA; 36.25; 38.0; 15.0
+PRSVLI99A53G702G; Tentativo numero 1; 2017-09-04; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 47.75; 49.0; 8.0
+LPRFNC99C08B220N; Tentativo numero 1; 2017-04-06; Universita' di Bologna - Via Filippo Re 2\/II, sede di BOLOGNA SCIENZE; 42.0; 45.0; 20.0
+LPRFNC99C08B220N; Tentativo numero 2; 2017-09-05; Universita' degli Studi della Basilicata, sede di POTENZA INGEGNERIA; 33.75; 37.0; 28.0
+VTTBNR98A27G713F; Tentativo numero 1; 2017-09-06; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 54.0; 55.0; 9.0
+VNTMRC98L09G224F; Tentativo numero 1; 2017-05-08; Universita' degli studi di Padova, sede di PADOVA INGEGNERIA; 67.75; 68.0; 2.0
+CVLLSN98L28E715Z; Tentativo numero 1; 2017-04-12; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 51.25; 52.0; 7.0
+VLCMTT98L08A944B; Tentativo numero 1; 2017-04-03; Universita' di Bologna - Viale Risorgimento 2, sede di BOLOGNA INGEGNERIA; 60.25; 62.0; 7.0
+CPPGLI95A06I046H; Tentativo numero 1; 2014-05-08; Universita' degli studi di Siena, sede di SIENA; 19.5; 22.0; 10.0
+LNTVLR96D60D086L; Tentativo numero 1; 2015-09-03; Universita' della Calabria, sede di RENDE; 40.0; 42.0; 12.0
+DSDMTT95A24H703Q; Tentativo numero 1; 2014-05-07; Universita' di Bologna - Scuola di Scienze, sede di BOLOGNA SCIENZE; 54.75; 57.0; 9.0
+SNTSPH95M49G273F; Tentativo numero 1; 2016-05-19; Universita' di Pisa - Scuola di Ingegneria, sede di PISA INGEGNERIA; 16.75; 19.0; 9.0
+GLVVCN89T19C351X; Tentativo numero 1; 2017-09-13; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 8.25; 15.0; 52.0
+GLVVCN89T19C351X; Tentativo numero 2; 2018-09-10; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 12.5; 19.0; 50.0
+GLVVCN89T19C351X; Tentativo numero 3; 2019-09-09; Universita' degli Studi di Catania, sede di CATANIA INGEGNERIA; 9.25; 18.0; 62.0
+STRNTN94L07H919T; Tentativo numero 1; 2017-09-06; Universita' della Calabria, sede di RENDE INGEGNERIA; 43.25; 47.0; 19.0
+PLADMN93D04G113Z; Tentativo numero 1; 2016-09-05; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 21.0; 24.0; 14.0
+PLADMN93D04G113Z; Tentativo numero 1; 2016-09-05; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 21.0; 24.0; 14.0
+PLADMN93D04G113Z; Tentativo numero 1; 2016-09-05; Universita' degli studi di Cagliari - Facolta' di Scienze, sede di CAGLIARI SCIENZE; 21.0; 24.0; 14.0
+FTTMRC91T08G702V; Tentativo numero 1; 2018-09-04; Universita' di Pisa - Via Giunta Pisano, sede di PISA INGEGNERIA; 14.75; 16.0; 5.0
